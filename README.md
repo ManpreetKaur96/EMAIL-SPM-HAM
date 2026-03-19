@@ -114,7 +114,7 @@ You can also test the model using your own email examples.
 
 ## Application Interface
 
-![Application Screenshot](screenshot.png)
+![Application Screenshot](Screenshot.png)
 
 Author: Manpreet Kaur
 Role: Data Analyst / Data Science Intern
